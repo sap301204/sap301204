@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Sayli Patil  
-Electrical + IoT Engineer ⚡🤖  
-Blending core engineering with smart systems
-# An Electrical & IoT Engineer passionate about building smart, reliable, and real-world engineering solutions.
-# I specialize in combining core electrical engineering principles with embedded systems, IoT, and data-driven technologies to design systems that actually work outside textbooks.
+## I'm Sayli Patil  
+## Electrical + IoT Engineer ⚡🤖  
+## Blending core engineering with smart systems
+An Electrical & IoT Engineer passionate about building smart, reliable, and real-world engineering solutions.
+I specialize in combining core electrical engineering principles with embedded systems, IoT, and data-driven technologies to design systems that actually work outside textbooks.
 
 📌 Experience Highlights:
 • Hands-on internships in Electrical Testing, T&D systems, and field supervision  
