@@ -32,7 +32,12 @@ https://www.linkedin.com/in/sayli-patil-79a578323/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" title="GitHub"/>
 </p>
 
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sap301204&layout=compact&theme=dark)
+
 I’m actively seeking opportunities in:
+
 🔹 IoT Engineering  
 🔹 Embedded Systems  
 🔹 Electrical Core + Smart Technologies  
