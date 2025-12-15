@@ -7,6 +7,7 @@ An Electrical & IoT Engineer passionate about building smart, reliable, and real
 I specialize in combining core electrical engineering principles with embedded systems, IoT, and data-driven technologies to design systems that actually work outside textbooks.
 
 📌 Experience Highlights:
+
 • Hands-on internships in Electrical Testing, T&D systems, and field supervision  
 • Projects involving smart monitoring, automation, and energy optimization  
 • Collaboration with academic institutions and industry-oriented projects
