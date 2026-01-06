@@ -37,10 +37,10 @@ I specialize in combining **core electrical engineering principles** with **embe
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sap301204&show_icons=true&hide_border=true" />
 
-### 📈 Most Used Languages  
+## 📈 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sap301204&layout=compact&hide_border=true" />
 
 ---
