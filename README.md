@@ -35,7 +35,7 @@ https://www.linkedin.com/in/sayli-patil-79a578323/
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sap301204&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sap301204&layout=compact&theme=tokyonight)
 
 I’m actively seeking opportunities in:
 
@@ -44,4 +44,5 @@ I’m actively seeking opportunities in:
 🔹 Electrical Core + Smart Technologies  
 🔹 Industrial Automation & Smart Infrastructure
 
-![Sayli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sap301204&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sap301204&show_icons=true&theme=tokyonight)
