@@ -1,48 +1,52 @@
-## Hi there 👋
+# Hi there 👋 I'm Sayli Patil  
 
-## I'm Sayli Patil  
-## Electrical + IoT Engineer ⚡🤖  
-## Blending core engineering with smart systems
-An Electrical & IoT Engineer passionate about building smart, reliable, and real-world engineering solutions.
-I specialize in combining core electrical engineering principles with embedded systems, IoT, and data-driven technologies to design systems that actually work outside textbooks.
+⚡ **Electrical + IoT Engineer** 🤖  
+Blending core engineering with smart systems  
 
-📌 Experience Highlights:
+---
 
-• Hands-on internships in Electrical Testing, T&D systems, and field supervision  
-• Projects involving smart monitoring, automation, and energy optimization  
-• Collaboration with academic institutions and industry-oriented projects
+### 👩‍💻 About Me  
+I’m an **Electrical & IoT Engineer** passionate about building **smart, reliable, real-world engineering solutions**.  
+I specialize in combining **core electrical engineering principles** with **embedded systems, IoT, and data-driven technologies** to design systems that actually work **outside textbooks**.
 
-###  Connect with me:
-https://www.linkedin.com/in/sayli-patil-79a578323/
-     
-### 🛠️ Languages & Tools
+---
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" height="28" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" title="CSS"/>
+### 📌 Experience Highlights  
+- Hands-on internships in **Electrical Testing, T&D systems, and field supervision**  
+- Projects focused on **smart monitoring, automation, and energy optimization**  
+- Collaboration with **academic institutions and industry-oriented projects**
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" title="Shell / Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" title="GitHub"/>
-</p>
+---
 
-### 📊 Most Used Languages
+### 🔗 Connect with Me  
+- 💼 LinkedIn: [Sayli Patil](https://www.linkedin.com/in/sayli-patil-79a578323/)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sap301204&layout=compact&theme=tokyonight)
+---
 
-I’m actively seeking opportunities in:
+### 🛠️ Languages & Tools  
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Shell](https://img.shields.io/badge/Shell-gray?logo=gnu-bash)
 
+---
+
+### 📊 GitHub Stats  
+![Sayli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sap301204&show_icons=true&theme=default)
+
+### 📈 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sap301204&layout=compact)
+
+---
+
+### 🚀 Actively Seeking Opportunities In  
 🔹 IoT Engineering  
 🔹 Embedded Systems  
 🔹 Electrical Core + Smart Technologies  
-🔹 Industrial Automation & Smart Infrastructure
-
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sap301204&show_icons=true&theme=tokyonight)
+🔹 Industrial Automation & Smart Infrastructure  
